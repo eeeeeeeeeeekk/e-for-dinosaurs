@@ -33,7 +33,7 @@ int main() {
     }
 
     /* printf("%llu %llu\n", sum_total, iterations); */
-    printf("%lf\n", ((double)sum_total) / iterations);
+    printf("e = %lf\n", ((double)sum_total) / iterations);
 
     return(0);
 }
