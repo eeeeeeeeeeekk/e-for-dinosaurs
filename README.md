@@ -2,7 +2,7 @@
 
 ![png](png.png)
 
-Calculating e via monte carlo in ancient programing languages
+Calculating e (Euler's number) via Monte Carlo method in ancient programing languages (before 1991)
 
 
 
