@@ -2,7 +2,7 @@
 
 ![png](png.png)
 
-Calculating e (Euler's number) via Monte Carlo method in ancient programing languages (before 1991)
+Calculating e (Euler's number) via Monte Carlo method in ancient programing languages (before 1991). To contribute to this project, see [CONTRIBUTING.md](https://github.com/eeeeeeeeeeekk/e-for-dinosaurs/blob/main/CONTRIBUTING.md) before filing a PR
 
 
 
